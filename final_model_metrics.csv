@@ -1,0 +1,2 @@
+model,best_params,accuracy,f1,precision,recall,roc_auc
+Random Forest,"{'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.8966809957012896,0.7469702533969886,0.7916450441100156,0.7070683661645423,0.9371908843833914
